@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280294290151",
+    "firebase_url": "https://whoknows-94ea2.firebaseio.com",
+    "project_id": "whoknows-94ea2",
+    "storage_bucket": "whoknows-94ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280294290151:android:5f7d9d4150a9a66fd52842",
+        "android_client_info": {
+          "package_name": "com.example.who_knows"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280294290151-ohp1k6nk5cpea3l86ee64i39jchea7ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKVV4vAwA16hEoY_XdMSpsBUA2Lj3-_zY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280294290151-ohp1k6nk5cpea3l86ee64i39jchea7ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

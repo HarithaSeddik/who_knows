@@ -1,0 +1,34 @@
+User:
+  final String firstName;
+  final String lastName;
+  final String email;
+  final String gender;
+  final String phoneNo;
+  final String location;
+  final String introMsg;
+  final String profilePic;
+  final bool wantNotifications;
+  final bool isOnline;
+  final int rating;
+  final int numberOfCalls;
+  final List<Call> callHistory;
+  final List<User> favorites;
+  final List<Topic> topics;
+
+Review
+  final String byName;
+  final String content;
+  final int rating;
+
+Topic
+  final Star star;
+  final String title;
+  final String desc;
+  final String audio;
+  final String video;
+  final int rating;
+  final int price;
+  final int points;
+  final List<Review> reviews;
+
+enum Star { free, standard, premium }
