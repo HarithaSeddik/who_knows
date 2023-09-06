@@ -9,5 +9,8 @@
 - [Agora](https://www.agora.io/en/): A Real-Time Engagement Platform for meaningful human connections.
 
 ## Maintainers
-- Hanzallah Azim Burney
+- Haritha Seddik
 - Abdul Hamid Dabboussi
+
+## Note
+The Dart version used for this project does NOT support null safety. 
